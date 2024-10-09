@@ -1,0 +1,14 @@
+{
+	"name": "rushidatafactroy11",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "198bf59f-7f3b-45f0-bf0f-89f2ad2ab3a1",
+		"tenantId": "b17eae47-e1ba-4bf2-9886-33b4aaf316ce"
+	}
+}
